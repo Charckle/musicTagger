@@ -1,0 +1,8 @@
+coverage==5.5
+deprecation==2.1.0
+eyed3==0.9.7
+filetype==1.2.0
+packaging==23.1
+pydub==0.25.1
+toml==0.10.2
+Unidecode==1.3.6
